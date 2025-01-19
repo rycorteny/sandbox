@@ -18,7 +18,7 @@ This equation describes the relationship between the energy of a photon (a parti
 
 If you have a light wave with a frequency *F = 5 * 10^14 Hz*, you can calculate the energy of the corresponding photon using the formula:
 
-## E = (6.63 * 10^-34) * (5 * 10^14)
+###### E = (6.63 * 10^-34) * (5 * 10^14)
 
 The resulting energy would be in joules.
 
