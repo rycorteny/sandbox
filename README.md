@@ -1,3 +1,5 @@
+# Plank's Equation
+
 Basically this repository will help to how you can calculate a **Plank's Equation**.
 
 Is used to calculate the **energy** of a photon based on the frequency of eletromagnetics radiation.
@@ -23,8 +25,12 @@ If you have a light wave with a frequency *F = 5 * 10^14 Hz*, you can calculate 
 The resulting energy would be in joules.
 
 
-<!--  -->
 
+
+
+
+
+# Wave Propagation Equation
 
 The equation **Wave Propagation Equation** C = λ * f is used to describe the relationship between the speed of light, wavelength, and frequency of an electromagnetic wave.
 
